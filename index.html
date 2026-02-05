@@ -1,190 +1,209 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>EN–TR Study</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>Yokdil</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<style>
-:root {
-    --bg: #f2f2f2;
-    --card: #ffffff;
-    --text: #111;
-    --muted: #666;
-}
+    <style>
+        :root {
+            --bg: #f2f2f2;
+            --card: #ffffff;
+            --text: #111;
+            --muted: #666;
+        }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --bg: #0f1115;
-        --card: #1a1d24;
-        --text: #f1f1f1;
-        --muted: #9aa0a6;
-    }
-}
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #0f1115;
+                --card: #1a1d24;
+                --text: #f1f1f1;
+                --muted: #9aa0a6;
+            }
+        }
 
-body {
-    font-family: system-ui, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    padding: 20px;
-}
+        body {
+            font-family: system-ui, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            padding: 20px;
+        }
 
-h1 {
-    text-align: center;
-}
+        input,
+        button {
+            width: 100%;
+            padding: 14px;
+            font-size: 18px;
+            margin-top: 10px;
+        }
 
-input, button {
-    width: 100%;
-    padding: 14px;
-    font-size: 18px;
-    margin-top: 10px;
-}
+        input {
+            background: var(--card);
+            color: var(--text);
+            border: 1px solid var(--muted);
+        }
 
-input {
-    background: var(--card);
-    color: var(--text);
-    border: 1px solid var(--muted);
-}
+        input::placeholder {
+            color: var(--muted);
+        }
 
-input::placeholder {
-    color: var(--muted);
-}
+        .card {
+            margin-top: 20px;
+            background: var(--card);
+            border-radius: 18px;
+            padding: 32px 24px;
+            min-height: calc(100vh - 200px);
 
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
 
-.card {
-    margin-top: 20px;
-    background: var(--card);
-    border-radius: 18px;
-    padding: 32px 24px;
+            cursor: pointer;
+            pointer-events: none;
+            opacity: 0.5;
 
-    min-height: calc(100vh - 200px);
+            -webkit-tap-highlight-color: transparent;
+            outline: none;
+            user-select: none;
+        }
 
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+        .started .card {
+            pointer-events: auto;
+            opacity: 1;
+        }
 
-    cursor: pointer;
+        .en {
+            font-weight: 700;
+            font-size: 36px;
+        }
 
-    pointer-events: none;
-    opacity: 0.5;
+        .tr {
+            font-size: 32px;
+            opacity: 0;
+        }
 
-    -webkit-tap-highlight-color: transparent;
-    outline: none;
-}
+        .reveal .tr {
+            opacity: 1;
+        }
 
-
-.started .card {
-    pointer-events: auto;
-    opacity: 1;
-}
-
-
-.en {
-    font-weight: 700;
-    font-size: 36px;
-}
-
-.tr {
-    font-size: 32px;
-    opacity: 0;
-}
-
-
-.reveal .tr {
-    opacity: 1;
-    visibility: visible;
-}
-
-
-.spacer {
-    flex: 1;
-}
-</style>
+        .spacer {
+            flex: 1;
+        }
+    </style>
 </head>
 
 <body>
+    <div id="setup">
+        <input
+            id="range"
+            placeholder="Which day interval? (e.g. 1-15)"
+        >
+        <button onclick="start()">Start</button>
+    </div>
 
-<div id="setup">
-    <input id="range" placeholder="Which day interval? (e.g. 1-15)">
-    <button onclick="start()">Start</button>
-</div>
+    <div class="card" id="card" onclick="toggle()">
+        <div class="en"></div>
+        <div class="spacer"></div>
+        <div class="tr"></div>
+    </div>
 
-<div class="card" id="card" onclick="toggle()">
-    <div class="en"></div>
-    <div class="spacer"></div>
-    <div class="tr"></div>
-</div>
+    <script>
+        let words = [];
+        let current = null;
+        let revealed = false;
 
-<script>
-let words = [];
-let current = null;
-let revealed = false;
+        function parseDays(input) {
+            // default: empty = 1–54
+            if (input === "") {
+                return Array.from({ length: 54 }, (_, i) => i + 1);
+            }
 
-async function start() {
-    words = [];
+            const days = new Set();
+            const parts = input.split(",");
 
-    const input = document.getElementById("range").value.trim();
-    const match = input.match(/^(\d+)\s*-\s*(\d+)$/);
+            for (const part of parts) {
+                if (part.includes("-")) {
+                    const [a, b] = part.split("-").map(Number);
+                    if (!a || !b) throw Error();
 
-    if (!match) {
-        alert("Use format like 1-15");
-        return;
-    }
+                    const start = Math.min(a, b);
+                    const end = Math.max(a, b);
 
-    let startDay = parseInt(match[1]);
-    let endDay = parseInt(match[2]);
+                    for (let i = start; i <= end; i++) {
+                        days.add(i);
+                    }
+                } else {
+                    const n = Number(part);
+                    if (!n) throw Error();
+                    days.add(n);
+                }
+            }
 
-    if (startDay > endDay) {
-        [startDay, endDay] = [endDay, startDay];
-    }
+            return [...days].sort((a, b) => a - b);
+        }
 
-    for (let d = startDay; d <= endDay; d++) {
-        const data = await fetch(`words/${d}.json`).then(r => r.json());
-        words.push(...data);
-    }
+        async function start() {
+            words = [];
 
-    if (words.length === 0) {
-        alert("No words found");
-        return;
-    }
+            let days;
+            try {
+                days = parseDays(
+                    document.getElementById("range").value.trim()
+                );
+            } catch {
+                alert("Invalid format");
+                return;
+            }
 
-    shuffle(words);
-    nextWord();
+            for (const d of days) {
+                const res = await fetch(`words/${d}.json`);
+                if (!res.ok) continue;
 
-    document.getElementById("setup").style.display = "none";
-    document.body.classList.add("started");
-}
+                const data = await res.json();
+                words.push(...data);
+            }
 
-function nextWord() {
-    current = words[Math.floor(Math.random() * words.length)];
-    revealed = false;
-    render();
-}
+            if (words.length === 0) {
+                alert("No words found");
+                return;
+            }
 
-function toggle() {
-    if (!revealed) {
-        revealed = true;
-        render();
-    } else {
-        nextWord();
-    }
-}
+            shuffle(words);
+            nextWord();
 
-function render() {
-    const card = document.getElementById("card");
-    card.classList.toggle("reveal", revealed);
+            document.getElementById("setup").style.display = "none";
+            document.body.classList.add("started");
+        }
 
-    document.querySelector(".en").textContent = current[0];
-    document.querySelector(".tr").textContent = current[1];
-}
+        function nextWord() {
+            current = words[Math.floor(Math.random() * words.length)];
+            revealed = false;
+            render();
+        }
 
-function shuffle(arr) {
-    for (let i = arr.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [arr[i], arr[j]] = [arr[j], arr[i]];
-    }
-}
-</script>
+        function toggle() {
+            if (!revealed) {
+                revealed = true;
+                render();
+            } else {
+                nextWord();
+            }
+        }
 
+        function render() {
+            const card = document.getElementById("card");
+            card.classList.toggle("reveal", revealed);
+
+            document.querySelector(".en").textContent = current[0];
+            document.querySelector(".tr").textContent = current[1];
+        }
+
+        function shuffle(arr) {
+            for (let i = arr.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [arr[i], arr[j]] = [arr[j], arr[i]];
+            }
+        }
+    </script>
 </body>
 </html>
