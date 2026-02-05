@@ -1,212 +1,108 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Yokdil</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>
+    let words = [];
+    let current = null;
+    let revealed = false;
 
-    <style>
-        :root {
-            --bg: #f2f2f2;
-            --card: #ffffff;
-            --text: #111;
-            --muted: #666;
-        }
+    function parseDays(input) {
+        const days = new Set();
+        const parts = input.split(",");
 
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --bg: #0f1115;
-                --card: #1a1d24;
-                --text: #f1f1f1;
-                --muted: #9aa0a6;
-            }
-        }
+        for (const part of parts) {
+            if (part.includes("-")) {
+                const [a, b] = part.split("-").map(Number);
+                if (!a || !b) throw Error();
 
-        body {
-            font-family: system-ui, sans-serif;
-            background: var(--bg);
-            color: var(--text);
-            padding: 20px;
-        }
+                const start = Math.min(a, b);
+                const end = Math.max(a, b);
 
-        input,
-        button {
-            width: 100%;
-            padding: 14px;
-            font-size: 18px;
-            margin-top: 10px;
-        }
-
-        input {
-            background: var(--card);
-            color: var(--text);
-            border: 1px solid var(--muted);
-        }
-
-        input::placeholder {
-            color: var(--muted);
-        }
-
-        .card {
-            margin-top: 20px;
-            background: var(--card);
-            border-radius: 18px;
-            padding: 32px 24px;
-            min-height: calc(100vh - 200px);
-
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-
-            cursor: pointer;
-            pointer-events: none;
-            opacity: 0.5;
-
-            -webkit-tap-highlight-color: transparent;
-            outline: none;
-            user-select: none;
-        }
-
-        .started .card {
-            pointer-events: auto;
-            opacity: 1;
-        }
-
-        .en {
-            font-weight: 700;
-            font-size: 36px;
-        }
-
-        .tr {
-            font-size: 32px;
-            opacity: 0;
-        }
-
-        .reveal .tr {
-            opacity: 1;
-        }
-
-        .spacer {
-            flex: 1;
-        }
-    </style>
-</head>
-
-<body>
-    <div id="setup">
-        <input
-            id="range"
-            placeholder="Gün aralığı(Örnek 1 veya 1,2,6 veya 1-5 veya 1,2,6-10)"
-        >
-        <button onclick="start()">Başlat</button>
-    </div>
-
-    <div class="card" id="card" onclick="toggle()">
-        <div class="en"></div>
-        <div class="spacer"></div>
-        <div class="tr"></div>
-    </div>
-
-    <script>
-        let words = [];
-        let current = null;
-        let revealed = false;
-
-        function parseDays(input) {
-            // default: empty = 1–54
-            if (input === "") {
-                return Array.from({ length: 54 }, (_, i) => i + 1);
-            }
-
-            const days = new Set();
-            const parts = input.split(",");
-
-            for (const part of parts) {
-                if (part.includes("-")) {
-                    const [a, b] = part.split("-").map(Number);
-                    if (!a || !b) throw Error();
-
-                    const start = Math.min(a, b);
-                    const end = Math.max(a, b);
-
-                    for (let i = start; i <= end; i++) {
-                        days.add(i);
-                    }
-                } else {
-                    const n = Number(part);
-                    if (!n) throw Error();
-                    days.add(n);
+                for (let i = start; i <= end; i++) {
+                    days.add(i);
                 }
+            } else {
+                const n = Number(part);
+                if (!n) throw Error();
+                days.add(n);
             }
-
-            return [...days].sort((a, b) => a - b);
         }
 
-        async function start() {
-            words = [];
+        return [...days].sort((a, b) => a - b);
+    }
 
+    async function start() {
+        words = [];
+
+        const input = document
+            .getElementById("range")
+            .value
+            .trim();
+
+        // ✅ EMPTY → load all.json
+        if (input === "") {
+            const res = await fetch("words/all.json");
+            if (!res.ok) {
+                alert("all.json bulunamadı");
+                return;
+            }
+
+            words = await res.json();
+        } else {
+            // ➕ specific days
             let days;
             try {
-                days = parseDays(
-                    document.getElementById("range").value.trim()
-                );
+                days = parseDays(input);
             } catch {
-                alert("Invalid format");
+                alert("Geçersiz format");
                 return;
             }
 
             const requests = days.map(d =>
                 fetch(`words/${d}.json`)
-                        .then(r => r.ok ? r.json() : [])
+                    .then(r => r.ok ? r.json() : [])
             );
 
             const results = await Promise.all(requests);
             words = results.flat();
-
-            if (words.length === 0) {
-                alert("No words found");
-                return;
-            }
-
-            shuffle(words);
-            nextWord();
-
-            document.getElementById("setup").style.display = "none";
-            document.body.classList.add("started");
         }
 
-        function nextWord() {
-            current = words[Math.floor(Math.random() * words.length)];
-            revealed = false;
+        if (words.length === 0) {
+            alert("Kelime bulunamadı");
+            return;
+        }
+
+        shuffle(words);
+        nextWord();
+
+        document.getElementById("setup").style.display = "none";
+        document.body.classList.add("started");
+    }
+
+    function nextWord() {
+        current = words[Math.floor(Math.random() * words.length)];
+        revealed = false;
+        render();
+    }
+
+    function toggle() {
+        if (!revealed) {
+            revealed = true;
             render();
+        } else {
+            nextWord();
         }
+    }
 
-        function toggle() {
-            if (!revealed) {
-                revealed = true;
-                render();
-            } else {
-                nextWord();
-            }
+    function render() {
+        const card = document.getElementById("card");
+        card.classList.toggle("reveal", revealed);
+
+        document.querySelector(".en").textContent = current[0];
+        document.querySelector(".tr").textContent = current[1];
+    }
+
+    function shuffle(arr) {
+        for (let i = arr.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [arr[i], arr[j]] = [arr[j], arr[i]];
         }
-
-        function render() {
-            const card = document.getElementById("card");
-            card.classList.toggle("reveal", revealed);
-
-            document.querySelector(".en").textContent = current[0];
-            document.querySelector(".tr").textContent = current[1];
-        }
-
-        function shuffle(arr) {
-            for (let i = arr.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [arr[i], arr[j]] = [arr[j], arr[i]];
-            }
-        }
-    </script>
-</body>
-</html>
-
-
-
+    }
+</script>
