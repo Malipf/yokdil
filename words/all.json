@@ -1,0 +1,4322 @@
+[
+  [
+    "beneficial",
+    "faydalı, yararlı"
+  ],
+  [
+    "poison",
+    "zehir, zehirlemek"
+  ],
+  [
+    "field",
+    "alan, saha, arazi, bölge"
+  ],
+  [
+    "addiction",
+    "bağımlılık, tiryakilik"
+  ],
+  [
+    "vulnerable",
+    "zayıf, yatkın, savunmasız"
+  ],
+  [
+    "initally",
+    "başlangıçta, önce, ilk olarak"
+  ],
+  [
+    "bone",
+    "kemik"
+  ],
+  [
+    "invest",
+    "yatırım yapmak"
+  ],
+  [
+    "apparent",
+    "aşikar, belli, ortada, bariz"
+  ],
+  [
+    "lack of",
+    "yoksunluk"
+  ],
+  [
+    "confidence",
+    "güven, itimat, güvenilirlik"
+  ],
+  [
+    "toxic",
+    "zehirli"
+  ],
+  [
+    "dementia",
+    "bunama, demans"
+  ],
+  [
+    "strict",
+    "katı, sıkı, sert"
+  ],
+  [
+    "inject",
+    "enjekte etmek, iğne yapmak"
+  ],
+  [
+    "mortality",
+    "ölüm, ölüm oranı"
+  ],
+  [
+    "eventually",
+    "sonunda, er ya da geç"
+  ],
+  [
+    "artifically",
+    "suni, yapay olarak"
+  ],
+  [
+    "surgery",
+    "ameliyat, cerrahi"
+  ],
+  [
+    "urinate",
+    "idrara çıkmak"
+  ],
+  [
+    "harm",
+    "zarar vermek, incitmek"
+  ],
+  [
+    "currently",
+    "mevcut durumda, şuan"
+  ],
+  [
+    "fertility",
+    "üreme, doğurganlık"
+  ],
+  [
+    "unlikely",
+    "ihtimali olmayan, olasılıksız"
+  ],
+  [
+    "vaccine",
+    "aşı"
+  ],
+  [
+    "prove",
+    "kanıtlamak, ispatlamak"
+  ],
+  [
+    "longevity",
+    "uzun ömürlülük, yaşam süresi"
+  ],
+  [
+    "pursue",
+    "takip etmek, izlemek"
+  ],
+  [
+    "tissue",
+    "doku"
+  ],
+  [
+    "remove",
+    "çıkarmak, sökmek, ayırmak"
+  ],
+  [
+    "primary",
+    "başlıca, esas"
+  ],
+  [
+    "reduce",
+    "düşürmek, azaltmak"
+  ],
+  [
+    "illness",
+    "hastalık"
+  ],
+  [
+    "permanent",
+    "daimi, kalıcı"
+  ],
+  [
+    "tear",
+    "gözyaşı"
+  ],
+  [
+    "voluntary",
+    "istemli, gönüllü"
+  ],
+  [
+    "recommend",
+    "tavsiye etmek, önermek"
+  ],
+  [
+    "vary",
+    "farklı olmak, değişmek"
+  ],
+  [
+    "approximately",
+    "takriben, yaklaşık"
+  ],
+  [
+    "explore",
+    "keşfetmek, bulmak, incelemek"
+  ],
+  [
+    "monitor",
+    "izlemek, gözlemlemek"
+  ],
+  [
+    "scarce",
+    "kısıtlıi yetersiz, kıt"
+  ],
+  [
+    "fluctuate",
+    "dalgalanmak, değişmek"
+  ],
+  [
+    "patient",
+    "hasta"
+  ],
+  [
+    "invent",
+    "icat etmek, keşfetmek"
+  ],
+  [
+    "pharmaceutical",
+    "eczacılığa ait, ilaç kullanımına ait"
+  ],
+  [
+    "illustrate",
+    "göstermek, sergilemek, resimlerle açıklamak"
+  ],
+  [
+    "nerve",
+    "sinir"
+  ],
+  [
+    "investigate",
+    "incelemek, araştırmak"
+  ],
+  [
+    "likelihood",
+    "olabilirlik, ihtimal"
+  ],
+  [
+    "primitive",
+    "ilkel, basit, eski çağa ait"
+  ],
+  [
+    "flu",
+    "grip, nezle"
+  ],
+  [
+    "basis",
+    "temel, kök, dayanak"
+  ],
+  [
+    "obviously",
+    "besbelli, açıkcası, apaçık"
+  ],
+  [
+    "distribution",
+    "dağıtım, taksim etme"
+  ],
+  [
+    "pain",
+    "acı, ağrı"
+  ],
+  [
+    "significance",
+    "önem, ehemmiyet, anlam"
+  ],
+  [
+    "sewage",
+    "kanalizasyon, lağım suyu"
+  ],
+  [
+    "detect",
+    "teşhis etmek, belirlemek"
+  ],
+  [
+    "merge",
+    "birleştirmek"
+  ],
+  [
+    "diverse",
+    "çeşitli"
+  ],
+  [
+    "pesticide",
+    "böcek ilacı"
+  ],
+  [
+    "intensify",
+    "yoğunlaştırmak, artırmak, güçlendirmek"
+  ],
+  [
+    "frequency",
+    "sıklık, tekerrür"
+  ],
+  [
+    "potentially",
+    "olanak dahilinde, potansiyel olarak"
+  ],
+  [
+    "inadequate",
+    "yetersiz, noksan, kıt"
+  ],
+  [
+    "diagnosis",
+    "teşhis, tanı"
+  ],
+  [
+    "phlegm",
+    "balgam"
+  ],
+  [
+    "onset",
+    "başlama, başlangıç"
+  ],
+  [
+    "demonstrate",
+    "göstermek, ispatlamak"
+  ],
+  [
+    "cough",
+    "öksürmek"
+  ],
+  [
+    "grow into",
+    "haline gelmek, dönüşmek"
+  ],
+  [
+    "harsh",
+    "sert, ağır, kaba"
+  ],
+  [
+    "sample",
+    "numune, örnek"
+  ],
+  [
+    "duration",
+    "müddet, süre, süreç"
+  ],
+  [
+    "eliminate",
+    "bertaraf etmek, çıkarmak, kurtulmak"
+  ],
+  [
+    "lung",
+    "akciğer"
+  ],
+  [
+    "ill",
+    "hastalık, sağlıksız, rahatsız"
+  ],
+  [
+    "outcome",
+    "netice, sonuç"
+  ],
+  [
+    "reliability",
+    "güvenilirlik, tutarlılık"
+  ],
+  [
+    "heal",
+    "iyileş(tir)mek, şifa bulmak"
+  ],
+  [
+    "gallbladder",
+    "safra kesesi"
+  ],
+  [
+    "deficit",
+    "eksiklik noksanlık"
+  ],
+  [
+    "liver",
+    "karaciğer"
+  ],
+  [
+    "pale",
+    "solgun, soluk"
+  ],
+  [
+    "perspiration",
+    "terleme"
+  ],
+  [
+    "suicide",
+    "intihar, intihar etmek"
+  ],
+  [
+    "menace",
+    "tehdit, korku"
+  ],
+  [
+    "cast",
+    "alçı"
+  ],
+  [
+    "occur",
+    "meydana gelmek"
+  ],
+  [
+    "fluid",
+    "sıvı, akıcı"
+  ],
+  [
+    "smooth",
+    "yumuşak, pürüzsüz"
+  ],
+  [
+    "improve",
+    "gelişmek, iyiye gitmek, ilerletmek, artırmak"
+  ],
+  [
+    "determine",
+    "saptamak, belirlemek, bulmak"
+  ],
+  [
+    "rarely",
+    "nadiren, arasıra"
+  ],
+  [
+    "mild",
+    "hafif, yumuşak, zayıf"
+  ],
+  [
+    "absorb",
+    "emmek, sindirmek"
+  ],
+  [
+    "compulsory",
+    "zorunlu, gerekli, mecburi"
+  ],
+  [
+    "exaggerate",
+    "abartmak, büyütmek"
+  ],
+  [
+    "contain",
+    "içermek, ihtiva etmek"
+  ],
+  [
+    "ignore",
+    "ihmal etmek, görmezden gelmek"
+  ],
+  [
+    "lethal",
+    "ölümcül, öldürücü"
+  ],
+  [
+    "hazardous",
+    "tehlikeli, riskli"
+  ],
+  [
+    "obvious",
+    "açık, aşikar, net"
+  ],
+  [
+    "perception",
+    "algı, kavrama, farkındalık"
+  ],
+  [
+    "practically",
+    "hemen hemen, neredeyse"
+  ],
+  [
+    "emotional",
+    "duygusal, hassas, içsel"
+  ],
+  [
+    "develop",
+    "geliş(tir)mek, ilerlemek"
+  ],
+  [
+    "infant",
+    "bebek, çocuk"
+  ],
+  [
+    "decrease",
+    "azal(t)mak"
+  ],
+  [
+    "impact",
+    "etki, tesir"
+  ],
+  [
+    "solely",
+    "sadece, yalnızca"
+  ],
+  [
+    "resemble",
+    "benzemek"
+  ],
+  [
+    "nutrition",
+    "beslenme, besin, gıda"
+  ],
+  [
+    "symptom",
+    "belirti, işaret"
+  ],
+  [
+    "exposure",
+    "maruz kalma, maruz bırakma"
+  ],
+  [
+    "artificial",
+    "yapay, suni"
+  ],
+  [
+    "account for",
+    "açıklamak, oluşturmak, tekabül etmek"
+  ],
+  [
+    "fortify",
+    "güçledirmek, sağlamlaştırmak, takviye etmek"
+  ],
+  [
+    "prescription",
+    "reçete, ilaç yazma, reçeteli ilaç"
+  ],
+  [
+    "faint",
+    "bayılmak, yere yığılmak"
+  ],
+  [
+    "severe",
+    "şiddetli, sert"
+  ],
+  [
+    "prone to",
+    "eğilimli, yatkın"
+  ],
+  [
+    "adolescent",
+    "ergen, genç"
+  ],
+  [
+    "proper",
+    "uygun, münasip"
+  ],
+  [
+    "scratch",
+    "sıyrık, çizik"
+  ],
+  [
+    "crucial",
+    "çok önemli, mühim"
+  ],
+  [
+    "tongue",
+    "dil"
+  ],
+  [
+    "common",
+    "yaygın, ortak"
+  ],
+  [
+    "reduction",
+    "azalma, düşüş"
+  ],
+  [
+    "deteriorate",
+    "kötüleşmek, kötüye gitmek, bozulmak"
+  ],
+  [
+    "flourish",
+    "ilerlemek, gelişmek"
+  ],
+  [
+    "abrupt",
+    "birden bire, ani"
+  ],
+  [
+    "gargle",
+    "ağzı çalkalamak, gargara yapmak, gargara"
+  ],
+  [
+    "attempt",
+    "teşebbüs etmek, çabalamak, amaçlamak, girişim"
+  ],
+  [
+    "disposable",
+    "tek kullanımlık, kullan at"
+  ],
+  [
+    "bulk",
+    "kitle, yığın, hacim, kütle"
+  ],
+  [
+    "wrist",
+    "el bileği"
+  ],
+  [
+    "blurry",
+    "puslu, bulanık"
+  ],
+  [
+    "promote",
+    "teşvik etmek, ilerletmek"
+  ],
+  [
+    "limb",
+    "organ, uzuv, kol-bacak"
+  ],
+  [
+    "fatigue",
+    "yorgunluk, bitkinlik"
+  ],
+  [
+    "relieve",
+    "rahatlatmak, acısını hafifletmek"
+  ],
+  [
+    "abruptly",
+    "birden bire, aniden"
+  ],
+  [
+    "enormous",
+    "devasa, muazzam, çok büyük"
+  ],
+  [
+    "toe",
+    "ayak parmağı"
+  ],
+  [
+    "bloodstream",
+    "kan dolaşımı"
+  ],
+  [
+    "gradually",
+    "yavaş yavaş, gitgide"
+  ],
+  [
+    "rapid",
+    "hızlı, ani, çabuk"
+  ],
+  [
+    "cell",
+    "hücre"
+  ],
+  [
+    "iron",
+    "demir"
+  ],
+  [
+    "address",
+    "değinmek"
+  ],
+  [
+    "disappear",
+    "yok olmak, kaybolmak"
+  ],
+  [
+    "administer",
+    "uygulamak, ifa etmek, yönetmek"
+  ],
+  [
+    "moderate",
+    "makul, ılımlı, ölçülü"
+  ],
+  [
+    "eyelid",
+    "göz kapağı"
+  ],
+  [
+    "incidence",
+    "ortaya çıkış sıklığı, insidans, oluş, vaka"
+  ],
+  [
+    "implement",
+    "uygulamak, ifa etmek, yapmak"
+  ],
+  [
+    "highlight",
+    "vurgulamak, altını çizmek, vurgulamak"
+  ],
+  [
+    "facilitate",
+    "kolaylaştırmak, olanak sağlamak, rahatlatmak"
+  ],
+  [
+    "endure",
+    "katlanmak, dayanmak"
+  ],
+  [
+    "misuse",
+    "yanlış kullanım, istismar etmek"
+  ],
+  [
+    "exclude",
+    "dahil etmemek, hariç tutmak"
+  ],
+  [
+    "indefinitely",
+    "süresiz olarak, belirsiz olarak"
+  ],
+  [
+    "deprivation",
+    "yoksunluk, mahrumiyet, eksiklik"
+  ],
+  [
+    "plague",
+    "veba"
+  ],
+  [
+    "pathway",
+    "yol, izyolu"
+  ],
+  [
+    "edible",
+    "yenilebilir"
+  ],
+  [
+    "outbreak",
+    "salgın, baş gösterme, patlama"
+  ],
+  [
+    "neglect",
+    "ihmal etmek, savsaklamak"
+  ],
+  [
+    "disrupt",
+    "aksatmak, bozmak, sekteye uğratmak"
+  ],
+  [
+    "immortal",
+    "ölümsüz, ebedi"
+  ],
+  [
+    "remarkable",
+    "göze çarpan, dikkate değer, olağanüstü"
+  ],
+  [
+    "cease",
+    "son vermek, durdurmak"
+  ],
+  [
+    "manifest",
+    "açıkça göstermek, belli etmek, dışa vurmak"
+  ],
+  [
+    "gloomy",
+    "kasvetli"
+  ],
+  [
+    "influential",
+    "etkili, etkileyici, önemli"
+  ],
+  [
+    "damage",
+    "zarar vermek, hasara uğratmak, hasar, zarar"
+  ],
+  [
+    "prevent",
+    "engel olmak, önlemek"
+  ],
+  [
+    "comprise",
+    "kapsamak, oluşmak, içermek"
+  ],
+  [
+    "intricate",
+    "karmaşık, kompleks"
+  ],
+  [
+    "confine",
+    "sınırlamak, hapsetmek"
+  ],
+  [
+    "penumonia",
+    "akciğer iltihabı, zatürre"
+  ],
+  [
+    "adequately",
+    "yeterince, layıkıyla"
+  ],
+  [
+    "distinguish",
+    "ayırt etmek, farkı görmek"
+  ],
+  [
+    "waist",
+    "bel"
+  ],
+  [
+    "delay",
+    "ertelemek, geciktirmek"
+  ],
+  [
+    "familiar",
+    "aşina, tanıdık, bildik"
+  ],
+  [
+    "bleeding",
+    "kanama"
+  ],
+  [
+    "immature",
+    "genç, gelişmemiş, olgunlaşmamış"
+  ],
+  [
+    "vein",
+    "damar"
+  ],
+  [
+    "notorius",
+    "adı çıkmış, kötü ünlü, kötü bilinen"
+  ],
+  [
+    "contribute to",
+    "katkıda bulunmak, sebep olmak"
+  ],
+  [
+    "requirement",
+    "gereksinim, ihtiyaç, zorunluluk"
+  ],
+  [
+    "generate",
+    "oluşturmak, üretmek, sebep olmak"
+  ],
+  [
+    "entire",
+    "tüm, bütün"
+  ],
+  [
+    "compress",
+    "kompres, bez, tampon"
+  ],
+  [
+    "essential",
+    "temel, esas, hayati, gerekli"
+  ],
+  [
+    "available",
+    "mevcut, elde olan"
+  ],
+  [
+    "lifespan",
+    "ömür, yaşam süresi"
+  ],
+  [
+    "heartburn",
+    "mide ekşimesi, reflü"
+  ],
+  [
+    "sneeze",
+    "aksırmak, hapşurmak"
+  ],
+  [
+    "diminish",
+    "azalmak, hafiflemek"
+  ],
+  [
+    "donor",
+    "donör, bağışlayıcı"
+  ],
+  [
+    "eyebrow",
+    "kaş"
+  ],
+  [
+    "inquiry",
+    "tahkikat, araştırma, inceleme"
+  ],
+  [
+    "heel",
+    "topuk"
+  ],
+  [
+    "immobilize",
+    "hareketsiz kılmak, sabitlemek, felce uğratmak"
+  ],
+  [
+    "anxious",
+    "endişeli, kaygılı, guzursuz"
+  ],
+  [
+    "sudden",
+    "ani, apansız, beklenmedik"
+  ],
+  [
+    "require",
+    "gerektirmek, istemek, ihtiyacı olmak"
+  ],
+  [
+    "cold",
+    "soğuk algınlığı, grip"
+  ],
+  [
+    "removal",
+    "çıkarma, alma"
+  ],
+  [
+    "conscious",
+    "uyanık, bilinci açık, şuuru yerinde"
+  ],
+  [
+    "maintain",
+    "muhafaza etmek, sürdürmek, korumak"
+  ],
+  [
+    "bruise",
+    "bere, morluk, ezik, çürük"
+  ],
+  [
+    "confusion",
+    "şaşkınlık, kafa karışıklığı"
+  ],
+  [
+    "suffer from",
+    "muzdarip olmak sıkıntısını çekmek"
+  ],
+  [
+    "depend on",
+    "güvenmek, bel bağlamak, bağlı olmak"
+  ],
+  [
+    "jaw",
+    "çene"
+  ],
+  [
+    "undergo",
+    "geçirmek, başına gelmek"
+  ],
+  [
+    "cavity",
+    "oyuk, çürük"
+  ],
+  [
+    "peripheral",
+    "çevresel, periferik"
+  ],
+  [
+    "inaccurate",
+    "hatalı, kusurlu, eksik, yanlış"
+  ],
+  [
+    "aging",
+    "yaşlanma, ihtiyarlama"
+  ],
+  [
+    "invasion",
+    "istila, akın, saldırı"
+  ],
+  [
+    "conduct",
+    "yapmak, ifa etmek, yürütmek"
+  ],
+  [
+    "eyesight",
+    "görme yeteneği"
+  ],
+  [
+    "alter",
+    "değiştirmek"
+  ],
+  [
+    "neck",
+    "boyun"
+  ],
+  [
+    "growth",
+    "ur, tümör, büyüme"
+  ],
+  [
+    "intervention",
+    "müdahele, karışma"
+  ],
+  [
+    "painkiller",
+    "ağrı kesici"
+  ],
+  [
+    "enhancement",
+    "iyileştirme, geliştirme, güçlendirme"
+  ],
+  [
+    "devastating",
+    "yıkıcı, harap edici, zarar verici"
+  ],
+  [
+    "intimate",
+    "samimi, içten, yakın"
+  ],
+  [
+    "shed ligth on",
+    "aydınlatmak, açığa kavuşturmak, ışık tutmak"
+  ],
+  [
+    "heredity",
+    "kalıtsallık, ırsiyet, soyaçekim"
+  ],
+  [
+    "contract",
+    "hastalık kapma"
+  ],
+  [
+    "perspire",
+    "terlemek"
+  ],
+  [
+    "moderately",
+    "kısmen, bir dereceye kadar"
+  ],
+  [
+    "expertise",
+    "bilirkişi, uzmanlık"
+  ],
+  [
+    "saliva",
+    "salya, tükürük"
+  ],
+  [
+    "keep an eye on",
+    "göz kulak olmak, dikkat etmek"
+  ],
+  [
+    "substance",
+    "cisim, madde"
+  ],
+  [
+    "succeed",
+    "başarmak, amaca ulaşmak"
+  ],
+  [
+    "outburst",
+    "patlak verme, patlama, ani artış"
+  ],
+  [
+    "gain",
+    "elde etmek, kazanmak, almak"
+  ],
+  [
+    "prolific",
+    "üretken, verimli"
+  ],
+  [
+    "applicable",
+    "uygulanabilir, ilgili"
+  ],
+  [
+    "placebo",
+    "teselli ilacı"
+  ],
+  [
+    "utilize",
+    "istifade etmek, faydalanmak"
+  ],
+  [
+    "come up with",
+    "bulmak, ortaya atmak, üretmek"
+  ],
+  [
+    "weakness",
+    "kuvvetsizlik, halsizlik"
+  ],
+  [
+    "correlation",
+    "ilişki, bağ"
+  ],
+  [
+    "relatively",
+    "nispeten, kısmen, görece"
+  ],
+  [
+    "provoke",
+    "-e neden olmak, tetiklemek, kışkırtmak"
+  ],
+  [
+    "vaguely",
+    "belli belirsiz"
+  ],
+  [
+    "epidemic",
+    "salgın, salgın hastalık"
+  ],
+  [
+    "revive",
+    "hayata döndürmek"
+  ],
+  [
+    "fever",
+    "ateş"
+  ],
+  [
+    "precipitate",
+    "yatıştırmak, düşürmek, süratlendirmek"
+  ],
+  [
+    "appropriate",
+    "münasip, uygun"
+  ],
+  [
+    "insomnia",
+    "uykusuzluk"
+  ],
+  [
+    "nutritional",
+    "besinsel, besinle ilgili"
+  ],
+  [
+    "inevitable",
+    "kaçınılamaz, zorunlu"
+  ],
+  [
+    "fragile",
+    "hassas, zayıf, kırılgan"
+  ],
+  [
+    "chew",
+    "çiğnemek"
+  ],
+  [
+    "constantly",
+    "devamlı olarak, sürekli"
+  ],
+  [
+    "shrink",
+    "küçül(t)mek, daral(t)mak"
+  ],
+  [
+    "rest",
+    "istirahat, dinlenme, dinlenmek"
+  ],
+  [
+    "disturbed",
+    "düzensiz, rahatsız, huzursuz"
+  ],
+  [
+    "eradicate",
+    "kökünü kazımak, yok etmek"
+  ],
+  [
+    "belly",
+    "karın, göbek"
+  ],
+  [
+    "disease",
+    "hastalık, dert"
+  ],
+  [
+    "awareness",
+    "farkındalık, bilinç"
+  ],
+  [
+    "partially",
+    "kısmen, bir dereceye kadar"
+  ],
+  [
+    "needle",
+    "iğne"
+  ],
+  [
+    "rib",
+    "kaburga"
+  ],
+  [
+    "deficiency",
+    "eksiklik, yetersizlik"
+  ],
+  [
+    "preparatory",
+    "hazırlık niteliğinde, hazırayıcı"
+  ],
+  [
+    "breakthrought",
+    "dönüm noktası, çığır, yenilik, adım"
+  ],
+  [
+    "thoroughly",
+    "tamamen, tümüyle"
+  ],
+  [
+    "ratio",
+    "oran, orantı"
+  ],
+  [
+    "respectively",
+    "sırasıyla, ayrı ayrı"
+  ],
+  [
+    "ventilation",
+    "ventilasyon, hava verme"
+  ],
+  [
+    "encounter",
+    "karşılaşmak, -e rastlamak"
+  ],
+  [
+    "avert",
+    "engellemek, önlemek"
+  ],
+  [
+    "sufficiently",
+    "yeterli şekilde, yeter biçimde"
+  ],
+  [
+    "suppress",
+    "baskı altına almak, bastırmak"
+  ],
+  [
+    "adequate",
+    "yeterli, kafi"
+  ],
+  [
+    "encourage",
+    "teşvik etmek, cesaretlendirmek"
+  ],
+  [
+    "infancy",
+    "bebeklik, çocukluk"
+  ],
+  [
+    "affect",
+    "etkilemek, tesir etmek"
+  ],
+  [
+    "stable",
+    "sabit, değişmez, stabil"
+  ],
+  [
+    "enhance",
+    "geliştirmek, iyileştirmek, arttırmak"
+  ],
+  [
+    "exclusively",
+    "özellikle, bilhassa"
+  ],
+  [
+    "threaten",
+    "tehdit etmek, korkutmak"
+  ],
+  [
+    "lead to",
+    "sebep olmak, yol açmak"
+  ],
+  [
+    "opportunity",
+    "fırsat, olanak, imkan"
+  ],
+  [
+    "ease",
+    "rahatla(t)mak, hafifle(t)mek"
+  ],
+  [
+    "itch",
+    "kaşı(n)mak"
+  ],
+  [
+    "burden",
+    "sıkıntı, yük"
+  ],
+  [
+    "flow",
+    "akış, dolaşım"
+  ],
+  [
+    "tendency",
+    "eğilim, meyil"
+  ],
+  [
+    "imminently",
+    "yakında, eli kulağında"
+  ],
+  [
+    "hereditary",
+    "kalıtsal, ırsi"
+  ],
+  [
+    "evaporate",
+    "buharlaşmak, yok olmak"
+  ],
+  [
+    "deaf",
+    "sağır"
+  ],
+  [
+    "condition",
+    "sağlık durumu"
+  ],
+  [
+    "shin",
+    "kaval kemiği(tibia)"
+  ],
+  [
+    "harmless",
+    "zararsız, masum, iyi huylu"
+  ],
+  [
+    "recover",
+    "ayağa kalkmak, iyileşmek"
+  ],
+  [
+    "constant",
+    "sabit, sürekli, değişmez"
+  ],
+  [
+    "joint",
+    "eklem"
+  ],
+  [
+    "deterioration",
+    "bozulma, kötüleşme"
+  ],
+  [
+    "nightmare",
+    "kabus"
+  ],
+  [
+    "individual",
+    "bireysel, ferdi"
+  ],
+  [
+    "absolutely",
+    "kesinlikle, mutlaka, tamamen"
+  ],
+  [
+    "relax",
+    "rahatlamak, dünlenmek, gevşemek"
+  ],
+  [
+    "measure",
+    "önlem, tedbir"
+  ],
+  [
+    "elevate",
+    "yükseltmek, kaldırmak"
+  ],
+  [
+    "underestimate",
+    "küçümsemek, hafife almak"
+  ],
+  [
+    "frustration",
+    "hüsran, düş kırıklığı"
+  ],
+  [
+    "persist",
+    "sürmek, devamlılık göstermek"
+  ],
+  [
+    "disclose",
+    "açığa çıkarmak, ortaya koymak, ifşa etmek"
+  ],
+  [
+    "prediction",
+    "tahmin, öngörü"
+  ],
+  [
+    "rare",
+    "nadir, az bulunan, ender"
+  ],
+  [
+    "initial",
+    "ilk, baştaki, önceki"
+  ],
+  [
+    "distant",
+    "uzak, mesafeli"
+  ],
+  [
+    "efficient",
+    "etkili, verimli"
+  ],
+  [
+    "intensity",
+    "yoğunluk, kuvvet, şiddet"
+  ],
+  [
+    "bring about",
+    "sebep olmak, yol açmak"
+  ],
+  [
+    "landmark",
+    "dönüm noktası, çığır açan"
+  ],
+  [
+    "hardship",
+    "zorluk, güçlük"
+  ],
+  [
+    "poverty",
+    "kıtlık, yokluk, fakirlik"
+  ],
+  [
+    "serious",
+    "ciddi, ağır"
+  ],
+  [
+    "peak",
+    "tepe, zirve, zirve yapmak"
+  ],
+  [
+    "simultaneously",
+    "eş zamanlı, aynı anda"
+  ],
+  [
+    "dietary",
+    "besinsel, rejimle ilgili"
+  ],
+  [
+    "blindness",
+    "ağmalık, körlük"
+  ],
+  [
+    "obey",
+    "uymak, riayet etmek"
+  ],
+  [
+    "progressively",
+    "gittikçe, artan biçimde"
+  ],
+  [
+    "expenditure",
+    "gider, masraf, harcama"
+  ],
+  [
+    "coincidence",
+    "tesadüf, rastlantı"
+  ],
+  [
+    "share",
+    "paylaşmak, ortak olmak"
+  ],
+  [
+    "wound",
+    "yara, bere, yaralamak, incitmek"
+  ],
+  [
+    "vague",
+    "belirsiz, muğlak"
+  ],
+  [
+    "shelter",
+    "barınak, sığınak"
+  ],
+  [
+    "malaria",
+    "sıtma"
+  ],
+  [
+    "deduce",
+    "sonucuna varmak, çıkarım yapmak"
+  ],
+  [
+    "trait",
+    "nitelik, özellik"
+  ],
+  [
+    "injure",
+    "incitmek, yaralamak"
+  ],
+  [
+    "drawback",
+    "sorun, engel, dezavantaj"
+  ],
+  [
+    "widespread",
+    "yaygın, geniş çapta"
+  ],
+  [
+    "precisely",
+    "tam olarak, kesin olarak"
+  ],
+  [
+    "consolidation",
+    "sağlamlaştırmak, güçlendirmek"
+  ],
+  [
+    "display",
+    "sergilemek, göstermek"
+  ],
+  [
+    "assume",
+    "varsaymak, farz etmek, düşünmek"
+  ],
+  [
+    "response",
+    "tepki, yanıt"
+  ],
+  [
+    "inadvertently",
+    "yanlışlıkla, kazara"
+  ],
+  [
+    "decline",
+    "azalma, düşüş, azalmak, zayıflamak"
+  ],
+  [
+    "soothe",
+    "yatıştırmak, sakinleştirmek"
+  ],
+  [
+    "rash",
+    "kızarıklık, döküntü"
+  ],
+  [
+    "induce",
+    "sebep olmak, ikna etmek"
+  ],
+  [
+    "boost",
+    "yükseltmek, artırmak, geliştirmek"
+  ],
+  [
+    "approach",
+    "yaklaşım"
+  ],
+  [
+    "persistent",
+    "kalıcı, devamlı"
+  ],
+  [
+    "birthmark",
+    "doğum lekesi"
+  ],
+  [
+    "tremor",
+    "çarpıntı, ürperme, titreme"
+  ],
+  [
+    "reversible",
+    "geri dönüşümlü, tersine döndürülebilir"
+  ],
+  [
+    "dizziness",
+    "baş dönmesi"
+  ],
+  [
+    "fatal",
+    "ölümcül, öldürücü"
+  ],
+  [
+    "ongoing",
+    "süregelen, devam eden"
+  ],
+  [
+    "invader",
+    "istilacı, istila eden"
+  ],
+  [
+    "embark on",
+    "başlamak, girişmek"
+  ],
+  [
+    "decay",
+    "çürümek, bozulmak, çürük"
+  ],
+  [
+    "complain",
+    "sızlanmak, şikayet etmek, yakınmak"
+  ],
+  [
+    "womb",
+    "rahim, uterus"
+  ],
+  [
+    "obstruction",
+    "darlık, obstrüksiyon, tıkama, engel"
+  ],
+  [
+    "dispense",
+    "dağıtmak"
+  ],
+  [
+    "malfunction",
+    "bozukluk, arıza"
+  ],
+  [
+    "unstable",
+    "istikrarsız, kararsız"
+  ],
+  [
+    "mitigate",
+    "hafifletmek, azaltmak"
+  ],
+  [
+    "swelling",
+    "şişlik"
+  ],
+  [
+    "depressive",
+    "yılgın, bunaltıfı, depresif"
+  ],
+  [
+    "viral",
+    "virüs ile ilgili, viral"
+  ],
+  [
+    "immunodeficiency",
+    "bağışıklık yetmezliği"
+  ],
+  [
+    "urgency",
+    "aciliyet"
+  ],
+  [
+    "scurvy",
+    "iskörbüt hastalığı"
+  ],
+  [
+    "including",
+    "dahil, içeren"
+  ],
+  [
+    "lessen",
+    "azaltmak, hafifletmek"
+  ],
+  [
+    "pessimistic",
+    "kötümser"
+  ],
+  [
+    "painkiller",
+    "ağrı kesici"
+  ],
+  [
+    "impotence",
+    "iktidarsızlık"
+  ],
+  [
+    "safeguard",
+    "korumak"
+  ],
+  [
+    "function",
+    "işlev, fonksiyon"
+  ],
+  [
+    "fertile",
+    "verimli, doğurgan"
+  ],
+  [
+    "cerebellum",
+    "beyincik, serebellum"
+  ],
+  [
+    "protection",
+    "koruma"
+  ],
+  [
+    "dissolve",
+    "eri(t)mek, çözmek, yok etmek"
+  ],
+  [
+    "incompetent",
+    "eksik, yetersiz, ehil olmayan"
+  ],
+  [
+    "choke",
+    "boğ(ul)mak"
+  ],
+  [
+    "ruptured",
+    "kopmuş, rüptüre"
+  ],
+  [
+    "immune system",
+    "bağışıklık sistemi"
+  ],
+  [
+    "afflict",
+    "ızdırap vermek, acı vermek, etkilemek"
+  ],
+  [
+    "snore",
+    "horlamak"
+  ],
+  [
+    "vomit",
+    "kusmak"
+  ],
+  [
+    "miscarriage",
+    "düşük yapma, çocuk düşürme"
+  ],
+  [
+    "adjust",
+    "ayarlamak, uyum sağlamak"
+  ],
+  [
+    "approval",
+    "tasvip, onay"
+  ],
+  [
+    "chest",
+    "göğüs"
+  ],
+  [
+    "recipient",
+    "alıcı, resipiyan"
+  ],
+  [
+    "friction",
+    "sürtünme"
+  ],
+  [
+    "internal",
+    "dahili, iç"
+  ],
+  [
+    "sweat",
+    "terlemek, ter"
+  ],
+  [
+    "acute",
+    "akut, ağır, şiddetli"
+  ],
+  [
+    "ankle",
+    "ayak bileği"
+  ],
+  [
+    "strike",
+    "vurmak, çarpmak, etkilemek, darbe, çarpma"
+  ],
+  [
+    "delivery",
+    "doğum, sevkiyat"
+  ],
+  [
+    "harvest",
+    "hasat etmek, toplamak"
+  ],
+  [
+    "equal",
+    "eşit"
+  ],
+  [
+    "implicate",
+    "ima etmek, ilgili olmak, bulaştırmak"
+  ],
+  [
+    "conflicting",
+    "çelişkili, çelişen"
+  ],
+  [
+    "indifferent",
+    "ilgisiz, duyarsız"
+  ],
+  [
+    "penetrate",
+    "nüfus etmek, içine girmek"
+  ],
+  [
+    "replicate",
+    "kopyasını-aynısını yapmak, çoğalmak"
+  ],
+  [
+    "massive",
+    "büyük, kocaman, kapsamlı"
+  ],
+  [
+    "obstruct",
+    "engel olmak"
+  ],
+  [
+    "intense",
+    "yoğum, şiddetli"
+  ],
+  [
+    "feature",
+    "özellik"
+  ],
+  [
+    "shortage",
+    "kıtlık, eksiklik, sıkıntı"
+  ],
+  [
+    "pose",
+    "oluşturmak"
+  ],
+  [
+    "juvenile",
+    "gençlik, delikanlı, juvenil"
+  ],
+  [
+    "enable",
+    "olanak vermek, sağlamak"
+  ],
+  [
+    "strengthen",
+    "sağlamlaştırmak, güçlendirmek"
+  ],
+  [
+    "partial",
+    "kısmi, kısmen"
+  ],
+  [
+    "deaf",
+    "sağır"
+  ],
+  [
+    "advocate",
+    "savunmak, destek olmak"
+  ],
+  [
+    "thoroughly",
+    "ayrıntılı, kapsamlı"
+  ],
+  [
+    "premature",
+    "zamanından önce, premature, erken"
+  ],
+  [
+    "consult",
+    "başvurmak, danışmak"
+  ],
+  [
+    "short of",
+    "haricinde, dışında, eksik olma"
+  ],
+  [
+    "evaluate",
+    "değerlendirmek"
+  ],
+  [
+    "inhibit",
+    "engellemek, sekteye uğratmak"
+  ],
+  [
+    "purify",
+    "arıtmak"
+  ],
+  [
+    "enact",
+    "yasalaştırmak, yürürlülüğe girmek, yasa çıkarmak"
+  ],
+  [
+    "wrinkle",
+    "kırışıklık"
+  ],
+  [
+    "threat",
+    "tehdit"
+  ],
+  [
+    "terminate",
+    "son vermek"
+  ],
+  [
+    "neglected",
+    "ihmal edilmiş"
+  ],
+  [
+    "vertical",
+    "dik, dikey"
+  ],
+  [
+    "put off",
+    "ertelemek"
+  ],
+  [
+    "recruit",
+    "işe almak, askere almak"
+  ],
+  [
+    "link",
+    "bağlantı, ilişki"
+  ],
+  [
+    "offset",
+    "dengelemek, telafi etmek"
+  ],
+  [
+    "subtle",
+    "güç algılanan, hemen göze çarpmayan"
+  ],
+  [
+    "tend to",
+    "eğilimli olmak"
+  ],
+  [
+    "prevailing",
+    "yaygın"
+  ],
+  [
+    "amplify",
+    "artırmak, yükseltmek, çoğaltmak"
+  ],
+  [
+    "replace",
+    "yerine geçmek, yenisiyle değiştirmek"
+  ],
+  [
+    "delicate",
+    "hassas, nazik, zarif"
+  ],
+  [
+    "resistant",
+    "dirençli"
+  ],
+  [
+    "survive",
+    "hayatta kalmak"
+  ],
+  [
+    "evaluation",
+    "değerlendirme"
+  ],
+  [
+    "consist of",
+    "-den oluşmak"
+  ],
+  [
+    "deplete",
+    "tükenmek, bitmek, boşalmak"
+  ],
+  [
+    "underlying",
+    "altında yatan, esas"
+  ],
+  [
+    "affluent",
+    "zengin, gelişmiş"
+  ],
+  [
+    "bump",
+    "şişlik, darbe"
+  ],
+  [
+    "patch",
+    "yamalamak, onarmak, bantlamak"
+  ],
+  [
+    "accelerate",
+    "hızlan(dır)mak"
+  ],
+  [
+    "commence",
+    "başla(t)mak"
+  ],
+  [
+    "remedy",
+    "çare, deva, ilaç"
+  ],
+  [
+    "impair",
+    "zarar vermek, bozmak"
+  ],
+  [
+    "flush",
+    "atmak, temizlemek"
+  ],
+  [
+    "cure",
+    "tedavi etmek, iyileştirmek"
+  ],
+  [
+    "sole",
+    "tek, yegane"
+  ],
+  [
+    "inoperable",
+    "ameliyat edilemeyen"
+  ],
+  [
+    "leak out",
+    "sızmak"
+  ],
+  [
+    "jerk",
+    "ani hareket, bilinçsiz kas hareketi, refleks"
+  ],
+  [
+    "alert",
+    "uyarmak, alarma geçirmek"
+  ],
+  [
+    "trigger",
+    "tetiklemek, yol açmak"
+  ],
+  [
+    "refer to",
+    "-e gönderme yapmak"
+  ],
+  [
+    "scab",
+    "yara kabuğu"
+  ],
+  [
+    "complementary",
+    "tamamlayıcı"
+  ],
+  [
+    "abound",
+    "bollaşmak, çok sayıda bulunmak"
+  ],
+  [
+    "numerous",
+    "sayısız, pek çok"
+  ],
+  [
+    "birth defect",
+    "doğum kusuru"
+  ],
+  [
+    "midwife",
+    "ebe"
+  ],
+  [
+    "consciousness",
+    "bilinç, şuur"
+  ],
+  [
+    "freckle",
+    "çil, benek"
+  ],
+  [
+    "specimen",
+    "örnek, numune"
+  ],
+  [
+    "ensure",
+    "temin etmek, sağlamak"
+  ],
+  [
+    "stroke",
+    "felç, inme"
+  ],
+  [
+    "disorder",
+    "rahatsızlık, bozukluk"
+  ],
+  [
+    "bundle",
+    "demet, bağ, yığın"
+  ],
+  [
+    "chin",
+    "çene"
+  ],
+  [
+    "recurrence",
+    "nüksetme, tekrar, yineleme"
+  ],
+  [
+    "infest",
+    "sarmak, bürümek, istila etmek"
+  ],
+  [
+    "adept",
+    "hünerli, usta, uzman"
+  ],
+  [
+    "nutritious",
+    "besleyici, yararlı"
+  ],
+  [
+    "degenerate",
+    "bozulmak, işlevini yitirmek, dejenere olmak"
+  ],
+  [
+    "sore throat",
+    "boğaz ağrısı"
+  ],
+  [
+    "incessantly",
+    "aralıksız, sürekli"
+  ],
+  [
+    "dizzy",
+    "başı dönen"
+  ],
+  [
+    "reasonable",
+    "makul, mantıksal"
+  ],
+  [
+    "ignorance",
+    "cahillik, cehalet, bilgisizlik"
+  ],
+  [
+    "swell",
+    "kabarmak, şişmek"
+  ],
+  [
+    "convincing",
+    "ikna edici, inandırıcı"
+  ],
+  [
+    "relative",
+    "nispi, göreceli, ilişkin"
+  ],
+  [
+    "emerge from",
+    "-den çıkmak, -den gelişmek, -den ortaya çıkmak"
+  ],
+  [
+    "overuse",
+    "gereğinden fazla kullanmak, aşırı kullanım"
+  ],
+  [
+    "involuntary",
+    "istem dışı"
+  ],
+  [
+    "predispose to",
+    "uygun hale getirmek, -e yatkınlaştırmak"
+  ],
+  [
+    "escalate",
+    "tırmanmak, artmak"
+  ],
+  [
+    "sibling",
+    "kardeş"
+  ],
+  [
+    "inflict",
+    "acı vermek, hasar oluşturmak"
+  ],
+  [
+    "replenish",
+    "tazelemek, doldurmak, yenilenmek"
+  ],
+  [
+    "gesture",
+    "jest"
+  ],
+  [
+    "sustain",
+    "sürdürmek"
+  ],
+  [
+    "raise",
+    "kaldırmak, büyütmek, yükseltmek"
+  ],
+  [
+    "compel",
+    "zorlamak, mecbur etmek"
+  ],
+  [
+    "occurence",
+    "olay, oluşum, meydana gelme"
+  ],
+  [
+    "intuitively",
+    "sezgisel olarak"
+  ],
+  [
+    "insulation",
+    "yalıtım, insulasyon, koruma"
+  ],
+  [
+    "vomiting",
+    "kusma"
+  ],
+  [
+    "lineage",
+    "soy, nesep"
+  ],
+  [
+    "lower",
+    "azaltmak, indirmek"
+  ],
+  [
+    "surveillance",
+    "gözetim, yakın takip"
+  ],
+  [
+    "undermine",
+    "zayıflatmak, altını kazmak"
+  ],
+  [
+    "tackle",
+    "başa çıkmak"
+  ],
+  [
+    "insufficient",
+    "yetersiz, az"
+  ],
+  [
+    "trivial",
+    "önemsiz"
+  ],
+  [
+    "curtail",
+    "azaltmak, kısaltmak"
+  ],
+  [
+    "starve",
+    "açlıktan ölmek"
+  ],
+  [
+    "figure out",
+    "çözmek, farkına varmak, anlamak"
+  ],
+  [
+    "reliance",
+    "güvenme, -e bel bağlama, bağımlılık"
+  ],
+  [
+    "propel",
+    "itmek, sevk etmek"
+  ],
+  [
+    "particularly",
+    "özellikle, bilhassa"
+  ],
+  [
+    "recur",
+    "tekrarlamak, yinelemek"
+  ],
+  [
+    "inherent",
+    "kendinde var olan, doğasında bulunma, fıtri"
+  ],
+  [
+    "curb",
+    "kontrol altına almak, frenlemek"
+  ],
+  [
+    "overstate",
+    "abartmak, büyütmek"
+  ],
+  [
+    "profound",
+    "derin, büyük"
+  ],
+  [
+    "obesity",
+    "obezite"
+  ],
+  [
+    "wounded",
+    "yaralı"
+  ],
+  [
+    "spread",
+    "yay(ıl)mak, dağıtmak, bulaşmak"
+  ],
+  [
+    "output",
+    "çıktı, üretim"
+  ],
+  [
+    "nasal",
+    "burun, nazal"
+  ],
+  [
+    "sweating",
+    "terleme"
+  ],
+  [
+    "embarrassment",
+    "utanma, mahcubiyet"
+  ],
+  [
+    "connectivity",
+    "bağlantı"
+  ],
+  [
+    "liable",
+    "hassas, sorumlu, eğilimli"
+  ],
+  [
+    "heatstroke",
+    "sıcak çarpması"
+  ],
+  [
+    "precise",
+    "kesin, belirli"
+  ],
+  [
+    "eyelash",
+    "kirpik, siliyum"
+  ],
+  [
+    "introverted",
+    "içedönük, introvert"
+  ],
+  [
+    "salivary",
+    "tükürük, salya"
+  ],
+  [
+    "prompt",
+    "-e sebep olmak, teşvik etmek, harekete geçirmek"
+  ],
+  [
+    "intertwined",
+    "birbirine dolanmış, sarılmış"
+  ],
+  [
+    "vascular",
+    "damarsal, vasküler"
+  ],
+  [
+    "sedentary",
+    "hareketsiz, sedanter"
+  ],
+  [
+    "intake",
+    "alım"
+  ],
+  [
+    "optical",
+    "optic, görme ile ilgili"
+  ],
+  [
+    "esteem",
+    "itibar, değer, takdir"
+  ],
+  [
+    "infirmity",
+    "fiziksel güçsüzlük"
+  ],
+  [
+    "exterminate",
+    "yok etmek, kökünü kazımak"
+  ],
+  [
+    "irritate",
+    "tahriş etmek, sinirlendirmek"
+  ],
+  [
+    "malnutrition",
+    "kötü beslenme, malnütrisyon"
+  ],
+  [
+    "hazard",
+    "tehlike, risk"
+  ],
+  [
+    "fetus",
+    "cenin"
+  ],
+  [
+    "regulate",
+    "düzenlemek"
+  ],
+  [
+    "deprive of",
+    "yoksun bırakmak, mahrum bırakmak"
+  ],
+  [
+    "prolong",
+    "uzatmak"
+  ],
+  [
+    "replenishment",
+    "ikmal, yenilenme"
+  ],
+  [
+    "involve",
+    "içermek, kapsamak"
+  ],
+  [
+    "outweigh",
+    "daha ağır basmak, daha fazla olmak"
+  ],
+  [
+    "treat",
+    "tedavi etmek"
+  ],
+  [
+    "substitute",
+    "yedek, yerini alma"
+  ],
+  [
+    "interpet",
+    "açıklamak, yorumlamak"
+  ],
+  [
+    "intermittently",
+    "aralıklı olarak, kesik kesik"
+  ],
+  [
+    "long-lasting",
+    "uzun süreli, dayanıklı"
+  ],
+  [
+    "worthwhile",
+    "faydalı, değerli"
+  ],
+  [
+    "foster",
+    "teşvik etmek, bakmak"
+  ],
+  [
+    "relentless",
+    "durmak bilmeyen, acımasız"
+  ],
+  [
+    "vaccination",
+    "aşılama"
+  ],
+  [
+    "implication",
+    "çıkarım, ima, olası sonuç"
+  ],
+  [
+    "predisposition",
+    "yatkınlık, eğilim"
+  ],
+  [
+    "transmit",
+    "bulaştırmak, iletmek"
+  ],
+  [
+    "vertebrae",
+    "omurga"
+  ],
+  [
+    "puberty",
+    "ergenlik çağı-dönemi, gençlik"
+  ],
+  [
+    "erode",
+    "aşın(dır)mak"
+  ],
+  [
+    "participate",
+    "katılmak, iştirak etmek"
+  ],
+  [
+    "inconclusive",
+    "inandırıcı olmayan, kesin olmayan"
+  ],
+  [
+    "pandemic",
+    "salgın"
+  ],
+  [
+    "identify",
+    "belirlemek, tanımlamak"
+  ],
+  [
+    "subsequent",
+    "daha sonraki, ardından gelen"
+  ],
+  [
+    "negligible",
+    "önemsiz, göz ardı edilebilir, ihmal edilebilir"
+  ],
+  [
+    "determinant",
+    "belirleyici, belirteç"
+  ],
+  [
+    "goal",
+    "amaç, hedef"
+  ],
+  [
+    "last",
+    "sürmek"
+  ],
+  [
+    "particular",
+    "belirli, özel"
+  ],
+  [
+    "interval",
+    "ara, aralık"
+  ],
+  [
+    "weaken",
+    "zayıflatmak, zayıf düşürmek"
+  ],
+  [
+    "dramatically",
+    "önemli ölçüde, çarpıcı biçimde"
+  ],
+  [
+    "participant",
+    "katılımcı"
+  ],
+  [
+    "misalign",
+    "hizası bozulmak, yanlış ayarlamak"
+  ],
+  [
+    "profoundly",
+    "ciddi olarak, derinden"
+  ],
+  [
+    "resilliency",
+    "dayanıklılık, esneklik"
+  ],
+  [
+    "failure",
+    "bozukluk, başarısızlık"
+  ],
+  [
+    "stimulus",
+    "uyarıcı, uyaran"
+  ],
+  [
+    "overcome",
+    "aşmak, üstesinden gelmek"
+  ],
+  [
+    "project",
+    "proje"
+  ],
+  [
+    "inappropriate",
+    "uygun olmayan"
+  ],
+  [
+    "perinatal",
+    "doğum öncesi, perinatal"
+  ],
+  [
+    "vessel",
+    "damar"
+  ],
+  [
+    "prevalence",
+    "yaygınlık, prevalans"
+  ],
+  [
+    "yellow fever",
+    "sarı humma"
+  ],
+  [
+    "marker",
+    "işaret, tümör işaretleyici"
+  ],
+  [
+    "extinct",
+    "soyu tükenmiş, bitmiş"
+  ],
+  [
+    "bowel",
+    "bağırsak"
+  ],
+  [
+    "ailment",
+    "rahatsızlık, hastalık"
+  ],
+  [
+    "thigh",
+    "uyluk"
+  ],
+  [
+    "numb",
+    "uyuşuk, hissiz"
+  ],
+  [
+    "neutralise",
+    "nötralize etmek, etkisizleştirmek"
+  ],
+  [
+    "conventional",
+    "geleneksel, konvansiyonel"
+  ],
+  [
+    "relief",
+    "rahatlama, teselli, giderme"
+  ],
+  [
+    "broken",
+    "kırık, kırılmış"
+  ],
+  [
+    "cardiovascular",
+    "kardiyovasküler"
+  ],
+  [
+    "seizure",
+    "hastalık nöbeti, felç"
+  ],
+  [
+    "dairy",
+    "mandıra, süthane"
+  ],
+  [
+    "conceive",
+    "gebe kalmak, tasarlamak"
+  ],
+  [
+    "cause",
+    "sebep-neden olmak"
+  ],
+  [
+    "comply with",
+    "uymak"
+  ],
+  [
+    "resolve",
+    "çözmek, kesin karar vermek"
+  ],
+  [
+    "arouse",
+    "uyandırmak, canlandırmak"
+  ],
+  [
+    "complaint",
+    "şikayet"
+  ],
+  [
+    "overdose",
+    "aşırı doz, dozaşımı"
+  ],
+  [
+    "abort",
+    "(çocuk) aldırmak, iptal etmek"
+  ],
+  [
+    "illicit",
+    "yasadışı"
+  ],
+  [
+    "defect",
+    "kusur, bozukluk"
+  ],
+  [
+    "overall",
+    "genel, bütünüyle"
+  ],
+  [
+    "excessive",
+    "aşırı"
+  ],
+  [
+    "prescribe",
+    "reçete etmek, emretmek"
+  ],
+  [
+    "malnourished",
+    "yetersiz beslenmiş"
+  ],
+  [
+    "startle",
+    "şaşırtmak, ürkütmek"
+  ],
+  [
+    "encounter",
+    "karşılaşmak"
+  ],
+  [
+    "stem from",
+    "-den kaynaklanmak"
+  ],
+  [
+    "malignant",
+    "kötü huylu"
+  ],
+  [
+    "preventive",
+    "önleyici, koruyucu"
+  ],
+  [
+    "handle",
+    "ele almak, başa çıkmak"
+  ],
+  [
+    "starvation",
+    "açlık"
+  ],
+  [
+    "debris",
+    "kalıntı, enkaz"
+  ],
+  [
+    "residual",
+    "artık, kalıntı"
+  ],
+  [
+    "diarrhea",
+    "ishal"
+  ],
+  [
+    "undoubtdely",
+    "şüphesiz"
+  ],
+  [
+    "means",
+    "araç, yol"
+  ],
+  [
+    "respiratory",
+    "solunum, solunum yolu"
+  ],
+  [
+    "diagnose",
+    "teşhis etmek"
+  ],
+  [
+    "transplant",
+    "nakil"
+  ],
+  [
+    "dehydration",
+    "su kaybı"
+  ],
+  [
+    "postpartum",
+    "doğum sonrası"
+  ],
+  [
+    "reveal",
+    "açığa çıkarmak"
+  ],
+  [
+    "unattainable",
+    "ulaşılamaz, elde edilemez"
+  ],
+  [
+    "blurred",
+    "bulanık"
+  ],
+  [
+    "withdrawal",
+    "geri çekilme, uzaklaşım"
+  ],
+  [
+    "offspring",
+    "yavru"
+  ],
+  [
+    "exhale",
+    "nefes vermek"
+  ],
+  [
+    "sticky",
+    "yapışkan"
+  ],
+  [
+    "alleviate",
+    "hafifletmek, dindirmek"
+  ],
+  [
+    "condansation",
+    "yoğunlaşma, buğulaşma"
+  ],
+  [
+    "density",
+    "yoğunluk"
+  ],
+  [
+    "underway",
+    "yapım aşamasında, devam etmekte"
+  ],
+  [
+    "deliberate",
+    "kasıtlı"
+  ],
+  [
+    "sedative",
+    "yatıştırıcı"
+  ],
+  [
+    "exhibit",
+    "sergilemek, göstermek"
+  ],
+  [
+    "seperate",
+    "ayırmak"
+  ],
+  [
+    "dense",
+    "yoğun"
+  ],
+  [
+    "legitimate",
+    "meşru"
+  ],
+  [
+    "struggle",
+    "mücadele etmek"
+  ],
+  [
+    "remain",
+    "sürmek, kalmak"
+  ],
+  [
+    "drowsy",
+    "uykulu"
+  ],
+  [
+    "abdominal",
+    "karın"
+  ],
+  [
+    "breathe",
+    "nefes almak"
+  ],
+  [
+    "blow",
+    "darbe, çarpmak"
+  ],
+  [
+    "unconscious",
+    "bilinçsiz, bilinçdışı"
+  ],
+  [
+    "interior",
+    "iç kısım, iç(iç kızım iç)"
+  ],
+  [
+    "destroy",
+    "yok etmek"
+  ],
+  [
+    "exhausted",
+    "bitkin, tükenmiş"
+  ],
+  [
+    "evidence",
+    "kanıt"
+  ],
+  [
+    "admit",
+    "kabul etmek"
+  ],
+  [
+    "recognise",
+    "tanımak, haklı bulmak"
+  ],
+  [
+    "boil",
+    "kaynatmak"
+  ],
+  [
+    "accuracy",
+    "doğruluk, hatasızlık"
+  ],
+  [
+    "scar",
+    "yara izi"
+  ],
+  [
+    "intolerance",
+    "intolerans, tahammülsüzlük"
+  ],
+  [
+    "benign",
+    "iyi huylu"
+  ],
+  [
+    "overweight",
+    "kilolu"
+  ],
+  [
+    "addictive",
+    "bağımlılık yapıcı"
+  ],
+  [
+    "development",
+    "gelişim, gelişme"
+  ],
+  [
+    "concussion",
+    "sarsıntı"
+  ],
+  [
+    "double",
+    "ikiye katlamak, iki kat artmak"
+  ],
+  [
+    "carrier",
+    "taşıyıcı"
+  ],
+  [
+    "dilate",
+    "açmak, genişletmek"
+  ],
+  [
+    "assess",
+    "değerlendirmek"
+  ],
+  [
+    "sedation",
+    "(ilaçla) yatıştırmak, sedasyon"
+  ],
+  [
+    "intensive",
+    "yoğun"
+  ],
+  [
+    "relapse",
+    "nüksetmek, kötüleşmek"
+  ],
+  [
+    "adapt",
+    "uymak, uyarlamak"
+  ],
+  [
+    "differ",
+    "değişiklik göstermek, değişmek"
+  ],
+  [
+    "experience",
+    "yaşamak, deneyimlemek"
+  ],
+  [
+    "abortion",
+    "kürtaj"
+  ],
+  [
+    "care",
+    "bakım, özen"
+  ],
+  [
+    "impaired",
+    "bozulmuş"
+  ],
+  [
+    "discharge",
+    "taburcu etmek"
+  ],
+  [
+    "limit",
+    "sınırlamak"
+  ],
+  [
+    "volatility",
+    "oynaklık, değişkenlik"
+  ],
+  [
+    "elderly",
+    "yaşlı"
+  ],
+  [
+    "violence",
+    "şiddet"
+  ],
+  [
+    "achieve",
+    "başarmak"
+  ],
+  [
+    "expect",
+    "beklemek, ummak"
+  ],
+  [
+    "compensate for",
+    "telafi etmek"
+  ],
+  [
+    "screen",
+    "taramak"
+  ],
+  [
+    "skin",
+    "deri"
+  ],
+  [
+    "useless",
+    "faydasız, kullanışsız"
+  ],
+  [
+    "considerably",
+    "bir hayli, önemli ölçüde"
+  ],
+  [
+    "desperate",
+    "umutsuz, çaresiz"
+  ],
+  [
+    "effect",
+    "etki"
+  ],
+  [
+    "dampen",
+    "nemlen(dir)mek, etkisini azaltmak"
+  ],
+  [
+    "revolutionary",
+    "devrim niteliğinde"
+  ],
+  [
+    "examination",
+    "muayene, inceleme"
+  ],
+  [
+    "stimulate",
+    "tetiklemek, uyarmak"
+  ],
+  [
+    "transfer",
+    "nakletmek, aktarmak"
+  ],
+  [
+    "treatment",
+    "tedavi"
+  ],
+  [
+    "consume",
+    "tüketmek, kullanmak"
+  ],
+  [
+    "side affect",
+    "yan etki"
+  ],
+  [
+    "pioneer",
+    "öncülük etmek"
+  ],
+  [
+    "estimate",
+    "tahmin etmek"
+  ],
+  [
+    "accumulate",
+    "toplamak, birik(tir)mek"
+  ],
+  [
+    "precede",
+    "önce olmak, -den önce gelmek"
+  ],
+  [
+    "flavour",
+    "lezzet"
+  ],
+  [
+    "lining",
+    "astar, kaplama"
+  ],
+  [
+    "identical",
+    "özdeş, aynı, tek yumurta"
+  ],
+  [
+    "expose to",
+    "maruz bırakmak"
+  ],
+  [
+    "impulse",
+    "dürtü"
+  ],
+  [
+    "outer",
+    "dış"
+  ],
+  [
+    "false teeth",
+    "takma diş"
+  ],
+  [
+    "headache",
+    "baş ağrısı"
+  ],
+  [
+    "progressive",
+    "ilerleyen, kademeli"
+  ],
+  [
+    "soreness",
+    "ağrı, sızı"
+  ],
+  [
+    "germ",
+    "mikrop"
+  ],
+  [
+    "overestimate",
+    "abartmak, olduğundan fazla göstermek"
+  ],
+  [
+    "promising",
+    "umut verici"
+  ],
+  [
+    "inadvertent",
+    "yanlışlıkla"
+  ],
+  [
+    "primarily",
+    "öncelikle, başlıca"
+  ],
+  [
+    "reinforce",
+    "desteklemek, pekiştirmek, takviye yapmak"
+  ],
+  [
+    "supplement",
+    "takviye, ek"
+  ],
+  [
+    "worldwide",
+    "dünya çapında"
+  ],
+  [
+    "major",
+    "ana, başlıca"
+  ],
+  [
+    "survival",
+    "hayatta kalma"
+  ],
+  [
+    "resistance",
+    "direnç"
+  ],
+  [
+    "accurately",
+    "doğru bir şekilde"
+  ],
+  [
+    "unnecessary",
+    "gereksiz"
+  ],
+  [
+    "swine flu",
+    "domuz gribi"
+  ],
+  [
+    "disturbance",
+    "rahatsızlık, bozukluk"
+  ],
+  [
+    "exceed",
+    "aşmak, geçmek"
+  ],
+  [
+    "proliferate",
+    "bollaşmak, çoğalmak"
+  ],
+  [
+    "extremely",
+    "son derece, aşırı derecede"
+  ],
+  [
+    "hostile",
+    "düşman, saldırgan"
+  ],
+  [
+    "originate",
+    "kaynaklanmak"
+  ],
+  [
+    "innate",
+    "doğuştan, özünde olan"
+  ],
+  [
+    "hint",
+    "ipucu, fikir"
+  ],
+  [
+    "related",
+    "ilişkili"
+  ],
+  [
+    "blind",
+    "kör"
+  ],
+  [
+    "hinder",
+    "engellemek, sekteye uğratmak"
+  ],
+  [
+    "soar",
+    "artmak"
+  ],
+  [
+    "inherit",
+    "kalıtımsal, miras olarak almak"
+  ],
+  [
+    "overlook",
+    "göz ardı etmek"
+  ],
+  [
+    "susceptible",
+    "hassas, duyarlı"
+  ],
+  [
+    "sufferer",
+    "mağdur, muzdarip"
+  ],
+  [
+    "feverishly",
+    "hararetle"
+  ],
+  [
+    "digestive",
+    "sindirim"
+  ],
+  [
+    "constitute",
+    "oluşturmak"
+  ],
+  [
+    "gum",
+    "dişeti"
+  ],
+  [
+    "rate",
+    "oran"
+  ],
+  [
+    "lobe",
+    "lob"
+  ],
+  [
+    "stomach",
+    "mide"
+  ],
+  [
+    "digestible",
+    "sindirilebilir"
+  ],
+  [
+    "harmful",
+    "zararlı"
+  ],
+  [
+    "breathless",
+    "nefes nefese, soluksuz"
+  ],
+  [
+    "detrimental",
+    "zararlı"
+  ],
+  [
+    "congestive",
+    "konjestif"
+  ],
+  [
+    "actually",
+    "aslında"
+  ],
+  [
+    "infect",
+    "bulaştırmak"
+  ],
+  [
+    "severely",
+    "şiddetli bir biçimde, ciddi anlamda"
+  ],
+  [
+    "deter",
+    "caydırmak, alıkoymak"
+  ],
+  [
+    "aid",
+    "yardım"
+  ],
+  [
+    "edit",
+    "düzenlemek"
+  ],
+  [
+    "provide",
+    "sağlamak"
+  ],
+  [
+    "variability",
+    "değişkenlik, kararsızlık"
+  ],
+  [
+    "undertake",
+    "başlamak, girişmek, gerçekleştirmek"
+  ],
+  [
+    "prevalent",
+    "yaygın, çok rastlanan"
+  ],
+  [
+    "abundant",
+    "bol, çok"
+  ],
+  [
+    "conclusive",
+    "kesin, kati, inandırıcı"
+  ],
+  [
+    "fracture",
+    "kırık, çatlak"
+  ],
+  [
+    "swallow",
+    "yutmak, yutkunmak"
+  ],
+  [
+    "invasive",
+    "saldıran, efraktif"
+  ],
+  [
+    "hay fever",
+    "saman nezlesi"
+  ],
+  [
+    "amputation",
+    "organın alınması, kesilme, amputasyon"
+  ],
+  [
+    "crush",
+    "ezmek"
+  ],
+  [
+    "drain",
+    "akmak, boşaltmak"
+  ],
+  [
+    "conform to",
+    "uymak, riayet etmek"
+  ],
+  [
+    "stuffy",
+    "tıkalı, tıkanmış"
+  ],
+  [
+    "carry out",
+    "uygulamak, yürütmek"
+  ],
+  [
+    "incubation",
+    "inkübasyon, kuluçka, gelişme"
+  ],
+  [
+    "transient",
+    "geçici, kısa süreli"
+  ],
+  [
+    "abuse",
+    "kötüye kullanmak, suistimal etmek"
+  ],
+  [
+    "admission",
+    "kabul, giriş izni"
+  ],
+  [
+    "seek",
+    "istemek, aramak"
+  ],
+  [
+    "gland",
+    "salgı bezi"
+  ],
+  [
+    "blister",
+    "su toplaması, vezikül, kabarcık"
+  ],
+  [
+    "adversely",
+    "olumsuz yönde, kötü bir şekilde"
+  ],
+  [
+    "devious",
+    "sinsi, aldatıcı"
+  ],
+  [
+    "prevention",
+    "önleme, engelleme"
+  ],
+  [
+    "striking",
+    "çarpıcı, göze çarpan"
+  ],
+  [
+    "construct",
+    "inşa etmek, kurmak"
+  ],
+  [
+    "sensation",
+    "his, algı"
+  ],
+  [
+    "interfere with",
+    "engellemek, etkilemek"
+  ],
+  [
+    "highlight",
+    "vurgulamak, altını çizmek"
+  ],
+  [
+    "substantial",
+    "önemli, mühim, değerli"
+  ],
+  [
+    "take into account",
+    "hesaba katmak, göz önünde bulundurmak"
+  ],
+  [
+    "properly",
+    "uygun biçimde, düzgün şekilde"
+  ],
+  [
+    "diabetes",
+    "şeker hastalığı"
+  ],
+  [
+    "life expectancy",
+    "ortalama yaşam süresi"
+  ],
+  [
+    "accompany",
+    "eşlik etmek, beraberinde gitmek"
+  ],
+  [
+    "inspire",
+    "ilham vermek, aşılamak, telkinde bulunmak"
+  ],
+  [
+    "comprehensive",
+    "kapsamlı, çok amaçlı, geniş"
+  ],
+  [
+    "fear",
+    "korku, endişe"
+  ],
+  [
+    "impede",
+    "engellemek, önlemek"
+  ],
+  [
+    "emergency",
+    "kriz, tehlike, acil durum"
+  ],
+  [
+    "colorectal",
+    "kalın bağırsakla ilgili"
+  ],
+  [
+    "indispensable",
+    "zaruri, vazgeçilmez"
+  ],
+  [
+    "probe",
+    "araştırmak, derinlemesine incelemek"
+  ],
+  [
+    "disruptive",
+    "yıkıcı, rahatsız edici"
+  ],
+  [
+    "contagious",
+    "bulaşıcı, mikroplu"
+  ],
+  [
+    "attribution",
+    "nitelik, özellik, dayandırma, isnat, atıf"
+  ],
+  [
+    "mutation",
+    "mutasyon, dönüşme, değişme"
+  ],
+  [
+    "obese",
+    "aşırı kilolu"
+  ],
+  [
+    "revolutionize",
+    "-i kökten değiştirmek, devrim yaratmak"
+  ],
+  [
+    "layer",
+    "tabaka, katman"
+  ],
+  [
+    "increase",
+    "artırmak, yükseltmek"
+  ],
+  [
+    "benefit",
+    "fayda, yarar"
+  ],
+  [
+    "component",
+    "parça, bileşen"
+  ],
+  [
+    "considerable",
+    "oldukça, kayda değer, önemli"
+  ],
+  [
+    "acquire",
+    "kazanmak, edinmek, elde etmek"
+  ],
+  [
+    "excretion",
+    "boşaltım, salgı"
+  ],
+  [
+    "impairment",
+    "bozukluk, özürlülük, noksanlık"
+  ],
+  [
+    "drowsiness",
+    "uyku sersemliği, uyuşukluk"
+  ],
+  [
+    "coronary",
+    "kalp ile ilgili"
+  ],
+  [
+    "equilibrium",
+    "denge, istikrar"
+  ],
+  [
+    "hiccup",
+    "hıçkırık, hıçkırmak"
+  ],
+  [
+    "insert",
+    "sokmak, yerleştirmek"
+  ],
+  [
+    "antigen",
+    "antikor üreten madde, antijen"
+  ],
+  [
+    "propsensity",
+    "eğilim, meyil"
+  ],
+  [
+    "inflammatory",
+    "iltihaplı, yangılı"
+  ],
+  [
+    "spinal cord",
+    "omurilik"
+  ],
+  [
+    "tie",
+    "bağlı olmak, tabi olmak"
+  ],
+  [
+    "anemia",
+    "kansızlık"
+  ],
+  [
+    "significant",
+    "önemli, mühim, kayda değer"
+  ],
+  [
+    "pregnancy",
+    "hamilelik, gebelik"
+  ],
+  [
+    "regulate",
+    "ayarlamak, düzenlemek"
+  ],
+  [
+    "irritant",
+    "tahriş edici"
+  ],
+  [
+    "perform",
+    "yapmak, yürütmek, uygulamak"
+  ],
+  [
+    "signal",
+    "belirti, işaret"
+  ],
+  [
+    "manipulate",
+    "yönlendirmek, çalıştırmak, kullanmak"
+  ],
+  [
+    "precursor",
+    "öncü, haberci, ilk"
+  ],
+  [
+    "turn into",
+    "-e dönüştürmek, değiştirmek"
+  ],
+  [
+    "sensitivity",
+    "hassasiyet, duyarlılık, reaksiyon"
+  ],
+  [
+    "cost",
+    "-e mal olmak, etmek"
+  ],
+  [
+    "infection",
+    "enfeksiyon, mikrop kapma, hastalık"
+  ],
+  [
+    "examine",
+    "muayene etmek, incelemek"
+  ],
+  [
+    "surgical",
+    "cerrahi, tıbbi"
+  ],
+  [
+    "implant",
+    "yerleştirmek, koymak, takmak"
+  ],
+  [
+    "previously",
+    "önceden, daha önce, evvelden"
+  ],
+  [
+    "cognitive",
+    "bilişsel, kavramsal, zihni"
+  ],
+  [
+    "case",
+    "vaka, durum, hal"
+  ],
+  [
+    "reverse",
+    "tersine çevirmek, geri döndürmek"
+  ],
+  [
+    "happen",
+    "olmak, meydana gelmek, ortaya çıkmak"
+  ],
+  [
+    "permenantly",
+    "kalıcı olarak, devamlı"
+  ],
+  [
+    "misunderstand",
+    "yanlış anlamak, yanlış yorumlamak"
+  ],
+  [
+    "sensory",
+    "duyusal, duyumsal"
+  ],
+  [
+    "medication",
+    "ilaç, tedavi"
+  ],
+  [
+    "drug",
+    "ilaç, ezca, hap"
+  ],
+  [
+    "deal with",
+    "başa çıkmak, üstesinden gelmek"
+  ],
+  [
+    "loneliness",
+    "yalnızlık, tek başınalık"
+  ],
+  [
+    "connection",
+    "bağlantı, ilişki, bağ"
+  ],
+  [
+    "directly",
+    "doğrudan, açıkca, kesin olarak"
+  ],
+  [
+    "significantly",
+    "önemli ölçüde, oldukça"
+  ],
+  [
+    "constrict",
+    "daraltmak, sıkılaştırmak"
+  ],
+  [
+    "cope with",
+    "başa çıkmak, üstesinden gelmek"
+  ],
+  [
+    "commonly",
+    "yaygın olarak, genellikle, genel olarak"
+  ],
+  [
+    "sensitive",
+    "hassas, duyarlı"
+  ],
+  [
+    "respond",
+    "tepki vermek, cevap vermek"
+  ],
+  [
+    "rise",
+    "artış, yükselmek"
+  ],
+  [
+    "reliably",
+    "hatasız, güvenilir biçimde"
+  ],
+  [
+    "produce",
+    "üretmek, yapmak"
+  ],
+  [
+    "balance",
+    "denge, istikrar"
+  ],
+  [
+    "rigorous",
+    "sıkı, titiz"
+  ],
+  [
+    "continuously",
+    "devamlı olarak, sürekli"
+  ],
+  [
+    "result from",
+    "-den kaynaklanmak"
+  ],
+  [
+    "avoid",
+    "kaçınmak, sakınmak"
+  ],
+  [
+    "indicate",
+    "belirtmek, işaret etmek, göstergesi olmak"
+  ],
+  [
+    "make up",
+    "oluşturmak, şekillendirmek"
+  ],
+  [
+    "urgent",
+    "acil, ivedi"
+  ],
+  [
+    "distressing",
+    "tedirgin edici, acı verici, üzücü"
+  ],
+  [
+    "absorption",
+    "emilim, emilme, absorbsiyon"
+  ],
+  [
+    "appear",
+    "ortaya çıkmak, belli olmak, görünmek"
+  ],
+  [
+    "structure",
+    "yapı, bünye"
+  ],
+  [
+    "alleviation",
+    "azalma, hafifleme, dinme"
+  ],
+  [
+    "several",
+    "birkaç, çeşitli"
+  ],
+  [
+    "invade",
+    "istila etmek, girmek"
+  ],
+  [
+    "fairly",
+    "çok, oldukça"
+  ],
+  [
+    "influenza",
+    "grip"
+  ],
+  [
+    "nutrient",
+    "besin maddesi"
+  ],
+  [
+    "consideration",
+    "düşünce, dikkat, önem"
+  ],
+  [
+    "consequence",
+    "sonuç, netice"
+  ],
+  [
+    "distinctive",
+    "farklı, kendine özgü, ayırıcı"
+  ],
+  [
+    "strenght",
+    "güç, kuvvet"
+  ],
+  [
+    "curable",
+    "tedavi edilebilir, iyileştirilebilir"
+  ],
+  [
+    "result in",
+    "-ile sonuçlanmak, -e neden olmak"
+  ],
+  [
+    "combat",
+    "mücadele etmek, karşı koymak"
+  ],
+  [
+    "demand",
+    "istemek, talep etmek"
+  ],
+  [
+    "composition",
+    "yapı, nitelik"
+  ],
+  [
+    "prematurely",
+    "önceden, erken"
+  ],
+  [
+    "boredom",
+    "can sıkıntısı"
+  ],
+  [
+    "poultry",
+    "kümes hayvanı eti"
+  ],
+  [
+    "suffocation",
+    "nefessiz kalarak boğulma"
+  ],
+  [
+    "aspire",
+    "heveslenmek, can atmak, arzulamak, istemek"
+  ],
+  [
+    "contaminated",
+    "kirlenmiş, mikroplu"
+  ],
+  [
+    "endurance",
+    "dayanıklılık, tahammül"
+  ],
+  [
+    "airway",
+    "solunum yolu"
+  ],
+  [
+    "abnormal",
+    "anormal, sıradışı"
+  ],
+  [
+    "include",
+    "içermek, dahil etmek"
+  ],
+  [
+    "arthritis",
+    "eklem yanması, eklem iltihabı"
+  ],
+  [
+    "dehydrate",
+    "su kaybetmek"
+  ],
+  [
+    "predict",
+    "öngörmek, tahmin etmek"
+  ],
+  [
+    "stretch",
+    "gerinmek, uzatmak"
+  ],
+  [
+    "immunize",
+    "aşılamak, bağışıklık kazandırmak"
+  ],
+  [
+    "resuscitate",
+    "diriltmek, hayata döndürmek, ayıltmak"
+  ],
+  [
+    "prenatal",
+    "doğum öncesi"
+  ],
+  [
+    "abdomen",
+    "karın"
+  ],
+  [
+    "itchy",
+    "uyuz, kaşıntılı, rahatsız"
+  ],
+  [
+    "aggravate",
+    "kötüleştirmek, ağırlaştırmak"
+  ],
+  [
+    "disability",
+    "malüllük, engellilik"
+  ],
+  [
+    "adopt",
+    "benimsemek, kabul etmek"
+  ],
+  [
+    "convince",
+    "ikna etmek, inandırmak"
+  ],
+  [
+    "proliferation",
+    "çoğalma, üreme"
+  ],
+  [
+    "incorporate",
+    "dahil etmek, içermek, kapsama almak"
+  ],
+  [
+    "incision",
+    "kesik, insizyon"
+  ],
+  [
+    "prominent",
+    "bilinen, ünlü, önemli, öne çıkan"
+  ],
+  [
+    "strictly",
+    "şiddetle, sıkı sıkıya"
+  ],
+  [
+    "inflammation",
+    "iltihap, yanma"
+  ],
+  [
+    "dengue",
+    "dang hastalığı"
+  ],
+  [
+    "contradict",
+    "çelişmek, ters düşmek"
+  ],
+  [
+    "affliction",
+    "hastalık, dert, ağrı"
+  ],
+  [
+    "inhalation",
+    "nefes alma, soluma"
+  ],
+  [
+    "susceptibility",
+    "duyarlılık, yatkınlık"
+  ],
+  [
+    "prognosis",
+    "seyir, tahmin, teşhis"
+  ],
+  [
+    "debilitating",
+    "zayıflatıcı, halden düşürücü"
+  ],
+  [
+    "rapidly",
+    "hızla, çabucak"
+  ],
+  [
+    "confer",
+    "sunmak, sağlamak, vermek"
+  ],
+  [
+    "associate with",
+    "ilişkilendirmek, bağ kurmak"
+  ],
+  [
+    "inception",
+    "başlangıç, başlama"
+  ],
+  [
+    "sufficient",
+    "yeterli, kafi"
+  ],
+  [
+    "convert into",
+    "dönüştürmek, değiştirmek"
+  ],
+  [
+    "deliver",
+    "teslim etmek, dağıtmak, sağlamak"
+  ],
+  [
+    "succumb",
+    "yenilmek, yenik düşmek, boyun eğmek"
+  ],
+  [
+    "dilation",
+    "genişleme, büyüme"
+  ],
+  [
+    "adverse",
+    "olumsuz, kötü"
+  ],
+  [
+    "advance",
+    "ilerleme"
+  ],
+  [
+    "variety",
+    "çeşit, tür"
+  ],
+  [
+    "worsen",
+    "kötüleştirmek, kötüye gitmek"
+  ],
+  [
+    "integral",
+    "ayrılmaz"
+  ],
+  [
+    "consumption",
+    "tüketim"
+  ],
+  [
+    "kidney",
+    "böbrek"
+  ],
+  [
+    "paralyzed",
+    "kötürüm, felçli"
+  ],
+  [
+    "counselling",
+    "rehberlik, danışma"
+  ],
+  [
+    "supply",
+    "tedarik etmek, sağlamak, temin"
+  ],
+  [
+    "overcome",
+    "yenmek, üstesinden gelmek"
+  ],
+  [
+    "recovery",
+    "iyileşme, kurtulma, atlatma"
+  ],
+  [
+    "steadily",
+    "durmadan, giderek"
+  ],
+  [
+    "widely",
+    "oldukça, geniş çapta"
+  ],
+  [
+    "vigorous",
+    "dinç, enerjik, dinamik"
+  ],
+  [
+    "vector",
+    "hastalık taşıyıcı"
+  ],
+  [
+    "establish",
+    "tesis etmek, kurmak"
+  ],
+  [
+    "challenging",
+    "zahmetli, zorlayıcı"
+  ],
+  [
+    "artery",
+    "atardamar"
+  ],
+  [
+    "unexpected",
+    "beklenmedik, ansızın"
+  ],
+  [
+    "vital",
+    "yaşamsal, hayati, önemli"
+  ],
+  [
+    "increasingly",
+    "giderek, artarak"
+  ],
+  [
+    "anxiety",
+    "kaygı, anksiyete"
+  ],
+  [
+    "excess",
+    "fazlalık, aşırılık, aşırı fazla"
+  ],
+  [
+    "proportion",
+    "oran, bölüm, miktar, yüzde"
+  ],
+  [
+    "stimulation",
+    "dürtü, teşvik, uyarım"
+  ],
+  [
+    "retain",
+    "korumak, muhafaza etmek"
+  ],
+  [
+    "reproductive",
+    "üreme"
+  ],
+  [
+    "receive",
+    "almak, kabul etmek"
+  ],
+  [
+    "shape",
+    "şekillendirmek, biçim, şekil"
+  ],
+  [
+    "evolution",
+    "evrim, gelişim, değişim"
+  ],
+  [
+    "improvement",
+    "ilerleme, iyileşme, gelişim"
+  ],
+  [
+    "rely on",
+    "güvenmek, bel bağlamak"
+  ],
+  [
+    "combination",
+    "birleşim, karışım, kombinasyon"
+  ],
+  [
+    "regularly",
+    "düzenli olarak, devamlı"
+  ],
+  [
+    "apperently",
+    "görünen o ki, anlaşılan, görünüşe göre"
+  ],
+  [
+    "severity",
+    "şiddet, sertlik, vehamet"
+  ],
+  [
+    "circulation",
+    "kan dolaşımı"
+  ],
+  [
+    "extreme",
+    "aşırı, çok fazla"
+  ],
+  [
+    "influence",
+    "etkilemek, tesir etmek"
+  ],
+  [
+    "propose",
+    "önermek, tavsiye etmek"
+  ],
+  [
+    "saturated",
+    "doymuş"
+  ],
+  [
+    "management",
+    "kontrol, yönetim"
+  ],
+  [
+    "reproduce",
+    "çoğalmak, üremek, yinelemek"
+  ],
+  [
+    "complicate",
+    "güçleştirmek, içinden çıkılmaz hale getirmek"
+  ],
+  [
+    "skeletal",
+    "iskelete ait"
+  ],
+  [
+    "association",
+    "bağ, ilişki"
+  ],
+  [
+    "dormant",
+    "uykuda, pasif"
+  ],
+  [
+    "invariably",
+    "devamlı, değişmeden, her zaman"
+  ],
+  [
+    "discomfort",
+    "rahatsızlık, ağrı, sızı"
+  ],
+  [
+    "extensive",
+    "kapsamlı, büyük"
+  ],
+  [
+    "dysfunction",
+    "yetmezlik, fonksiyon bozukluğu"
+  ],
+  [
+    "spot",
+    "fark etmek, görmek, yerini belirlemek"
+  ],
+  [
+    "underweight",
+    "aşırı zayıf, bir deri bir kemik"
+  ],
+  [
+    "circulatory",
+    "dolaşımsal, kan dolaşımı ile ilgili"
+  ],
+  [
+    "leukaemia",
+    "kan kanseri"
+  ],
+  [
+    "fundamental",
+    "temel, esas, ana, köklü"
+  ],
+  [
+    "mutate",
+    "değişmek, mutasyona uğramak"
+  ],
+  [
+    "transmission",
+    "bulaşma, aktarım"
+  ],
+  [
+    "experimental",
+    "deneysel, tecrübi"
+  ],
+  [
+    "restrict",
+    "sınırlamak, kısıtlamak"
+  ],
+  [
+    "auditory",
+    "işitsel, duyumsal"
+  ],
+  [
+    "transfusion",
+    "nakil, aktarım"
+  ],
+  [
+    "degenerate",
+    "bozulma, dejenrasyon, kötüleşme"
+  ],
+  [
+    "noticeable",
+    "fark edilebilir, göze çarpan, açık"
+  ],
+  [
+    "aspect",
+    "görünüm, yön"
+  ],
+  [
+    "respiratory",
+    "nefes, soluk, solunum"
+  ],
+  [
+    "denture",
+    "protez, takma diş"
+  ],
+  [
+    "in-depth",
+    "derinlemesine, detaylı, kapsamlı"
+  ],
+  [
+    "advise",
+    "tavsiye etmek, önermek"
+  ],
+  [
+    "react",
+    "tepki vermek, reaksiyon göstermek"
+  ],
+  [
+    "destruction",
+    "tahribat, hasar"
+  ],
+  [
+    "contraction",
+    "çekilme, büzülme, kasılma"
+  ],
+  [
+    "paralysis",
+    "felç, hareket edememe"
+  ],
+  [
+    "detection",
+    "belirleme, ortama çıkarma, teşhis"
+  ],
+  [
+    "transform",
+    "dönüşmek, dönüştürmek"
+  ],
+  [
+    "distress",
+    "sıkıntı"
+  ],
+  [
+    "classify",
+    "sınıflandırmak"
+  ],
+  [
+    "endanger",
+    "tehlikeye atmak"
+  ],
+  [
+    "abnormality",
+    "anormallik, olağandışılık"
+  ],
+  [
+    "ultimate",
+    "nihai, son"
+  ],
+  [
+    "unique",
+    "eşsiz, emsalsiz, benzersiz"
+  ],
+  [
+    "find out",
+    "bulmak, keşfetmek, saptamak"
+  ],
+  [
+    "indication",
+    "işaret, gösterge"
+  ],
+  [
+    "rejuvenate",
+    "yenilenmek, gençleşmek"
+  ],
+  [
+    "identification",
+    "tanımlama, teşhis"
+  ],
+  [
+    "nucleus",
+    "öz, çekirdek"
+  ],
+  [
+    "replication",
+    "kopya, kopyalama"
+  ],
+  [
+    "untreated",
+    "tedavi edilmeyen"
+  ],
+  [
+    "infertility",
+    "kısırlık"
+  ],
+  [
+    "clot",
+    "pıhtı"
+  ],
+  [
+    "communicate",
+    "etkileşim kurmak, ileştişime geçmek"
+  ],
+  [
+    "surround",
+    "kuşatmak, etrafını çevirmek"
+  ],
+  [
+    "contribution",
+    "katkı, pay"
+  ],
+  [
+    "assist",
+    "yardım etmek, destek olmak"
+  ],
+  [
+    "immunization",
+    "aşılama"
+  ],
+  [
+    "correlate",
+    "ilişkilendirmek"
+  ],
+  [
+    "drastic",
+    "etkili, güçlü, ciddi"
+  ],
+  [
+    "ingestion",
+    "alım, tüketim, yeme"
+  ],
+  [
+    "misleading",
+    "yanıltıcı, aldatıcı"
+  ],
+  [
+    "indicator",
+    "gösterge, sinyal, belirti"
+  ]
+]
