@@ -155,13 +155,13 @@
                 return;
             }
 
-            for (const d of days) {
-                const res = await fetch(`words/${d}.json`);
-                if (!res.ok) continue;
+            const requests = days.map(d =>
+                fetch(`words/${d}.json`)
+                        .then(r => r.ok ? r.json() : [])
+            );
 
-                const data = await res.json();
-                words.push(...data);
-            }
+            const results = await Promise.all(requests);
+            words = results.flat();
 
             if (words.length === 0) {
                 alert("No words found");
@@ -207,5 +207,6 @@
     </script>
 </body>
 </html>
+
 
 
